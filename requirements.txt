@@ -1,0 +1,16 @@
+matplotlib
+seaborn
+numpy
+pandas
+h5py
+scipy
+scikit-image
+jupyterlab
+dask
+distributed
+dask-jobqueue
+tifffile
+ipywidgets
+pytables
+scikit-learn
+line_profiler
